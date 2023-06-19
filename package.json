@@ -21,10 +21,10 @@
   },
   "main": "index.js",
   "dependencies": {
-    "fibers": "^3.1.0",
+    "fibers": "^5.0.3",
     "meteor-promise": "^0.8.2",
     "underscore": "^1.8.3",
-    "wdio-sync": "^0.7.0",
+    "wdio-sync": "https://github.com/exabyte-io/wdio-sync#1a95409ac5e940040a53a6cf40e66be55f33c83c",
     "webdriverio": "^4.14.4",
     "xolvio-fiber-utils": "3.0.0"
   }
