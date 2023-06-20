@@ -21,11 +21,11 @@
   },
   "main": "index.js",
   "dependencies": {
-    "fibers": "^5.0.3",
+    "fibers": "^4.0.3",
     "meteor-promise": "^0.8.2",
     "underscore": "^1.8.3",
-    "wdio-sync": "https://github.com/exabyte-io/wdio-sync#1a95409ac5e940040a53a6cf40e66be55f33c83c",
+    "wdio-sync": "https://github.com/exabyte-io/wdio-sync#ed75a9e0e10f9825b215467279975c39cbb713e3",
     "webdriverio": "^4.14.4",
-    "xolvio-fiber-utils": "https://github.com/Exabyte-io/fiber-utils#0c61e20a18c352f2e4e32bfefb7e48d58052da66"
+    "xolvio-fiber-utils": "https://github.com/Exabyte-io/fiber-utils#9a7b9e7879e0e5901fa0af8dc28f55a82375ef40"
   }
 }
