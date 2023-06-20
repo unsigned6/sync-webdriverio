@@ -26,6 +26,6 @@
     "underscore": "^1.8.3",
     "wdio-sync": "https://github.com/exabyte-io/wdio-sync#df41b285032a2145b1ec3d11d09bee99de203189",
     "webdriverio": "^4.14.4",
-    "xolvio-fiber-utils": "https://github.com/Exabyte-io/fiber-utils#9a7b9e7879e0e5901fa0af8dc28f55a82375ef40"
+    "xolvio-fiber-utils": "https://github.com/Exabyte-io/fiber-utils#d31e82ed812482c39805ca0ce5e6427df80e9cdf"
   }
 }
